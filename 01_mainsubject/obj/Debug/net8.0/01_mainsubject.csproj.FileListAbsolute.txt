@@ -1,0 +1,14 @@
+/Users/b/csharp/01_mainsubject/bin/Debug/net8.0/01_mainsubject
+/Users/b/csharp/01_mainsubject/bin/Debug/net8.0/01_mainsubject.deps.json
+/Users/b/csharp/01_mainsubject/bin/Debug/net8.0/01_mainsubject.runtimeconfig.json
+/Users/b/csharp/01_mainsubject/bin/Debug/net8.0/01_mainsubject.dll
+/Users/b/csharp/01_mainsubject/bin/Debug/net8.0/01_mainsubject.pdb
+/Users/b/csharp/01_mainsubject/obj/Debug/net8.0/01_mainsubject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/b/csharp/01_mainsubject/obj/Debug/net8.0/01_mainsubject.AssemblyInfoInputs.cache
+/Users/b/csharp/01_mainsubject/obj/Debug/net8.0/01_mainsubject.AssemblyInfo.cs
+/Users/b/csharp/01_mainsubject/obj/Debug/net8.0/01_mainsubject.csproj.CoreCompileInputs.cache
+/Users/b/csharp/01_mainsubject/obj/Debug/net8.0/01_mainsubject.dll
+/Users/b/csharp/01_mainsubject/obj/Debug/net8.0/refint/01_mainsubject.dll
+/Users/b/csharp/01_mainsubject/obj/Debug/net8.0/01_mainsubject.pdb
+/Users/b/csharp/01_mainsubject/obj/Debug/net8.0/01_mainsubject.genruntimeconfig.cache
+/Users/b/csharp/01_mainsubject/obj/Debug/net8.0/ref/01_mainsubject.dll
